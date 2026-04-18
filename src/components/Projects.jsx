@@ -15,6 +15,13 @@ export default function Projects() {
         github: "https://github.com/yourusername/portfolio",
         live: "#",
       },
+      {
+        title: "portfolio",
+        desc: "Personal portfolio built with React",
+        image: "/projects/portfolio.png",
+        github: "https://portfolio-peach-xi-858ambkyku.vercel.app/",
+        live: "#",
+      },
     ],
     fullstack: [
       {
@@ -25,10 +32,17 @@ export default function Projects() {
         live: "#",
       },
       {
-        title: "Spam Detection",
-        desc: "Detect repeated characters in chat",
-        image: "/projects/spam.png",
-        github: "https://github.com/yourusername/spam-detection",
+        title: "FoodTech",
+        desc: "Academic project built with Python and Block chain",
+        image: "/projects/foodtech.png",
+        github: "https://github.com/buddasreelatha57/FoodTech",
+        live: "#",
+      },
+      {
+        title: "Designing Secure and Efficient Bio-metric",
+        desc: "Academic project built with Python and ML",
+        image: "/projects/Secure.png",
+        github: "https://github.com/buddasreelatha57/FoodTech",
         live: "#",
       },
     ],
