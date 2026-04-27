@@ -10,6 +10,11 @@ export default function Certifications() {
       org: "System Tron",
       year: "2023",
     },
+    {
+      title: "Tata - GenAI Powered Data Analytics Job Simulation",
+      org: "Forage",
+      year: "Apirl 2026",
+    },
     
   ];
 
