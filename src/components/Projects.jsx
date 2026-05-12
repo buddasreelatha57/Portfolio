@@ -20,7 +20,7 @@ export default function Projects() {
         desc: "Personal portfolio built with React",
         image: "/projects/portfolio.png",
         github: "https://portfolio-peach-xi-858ambkyku.vercel.app/",
-        live: "#",
+        live: "https://portfolio-peach-xi-858ambkyku.vercel.app/",
       },
     ],
     fullstack: [
@@ -30,6 +30,13 @@ export default function Projects() {
         image: "/projects/DLConnect.png",
         github: "https://github.com/yourusername/pastebin",
         live: "#",
+      },
+      {
+        title: "Job_Hunt",
+        desc: "Job search with Ai matching resume screening with chatgpt ApI Integration build with Node.js , react and Mongo DB",
+        image: "/projects/job_hunt.png",
+        github: "https://github.com/buddasreelatha57/Job_Hunt",
+        live: "https://job-hunt-mu-one.vercel.app/",
       },
       {
         title: "FoodTech",
@@ -43,7 +50,7 @@ export default function Projects() {
         desc: "Academic project built with Python and ML",
         image: "/projects/Secure.png",
         github: "https://github.com/buddasreelatha57/FoodTech",
-        live: "#",
+        live: "https://designing-secure-and-efficient-bio-metric.onrender.com/",
       },
     ],
   };
