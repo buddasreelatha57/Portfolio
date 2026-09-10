@@ -13,9 +13,8 @@ export default function About() {
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
 
         <p className="text-gray-300">
-          I am a passionate developer skilled in Java, Python and React. I enjoy building
-          scalable applications and solving real-world problems. Currently focused
-          on improving my full-stack development skills and building impactful projects.
+         I am a Software Developer with 1 year and 10 months of professional experiencenat Parmy Technologies , specializing in Java Full Stack development and Python. I have experience designing, developing, and maintaining scalable applications, building RESTful APIs, integrating databases, and delivering reliable software solutions. I enjoy solving complex technical challenges, writing clean and efficient code, and collaborating with teams to deliver high-quality products. Alongside my backend expertise, I continue to strengthen my full-stack development skills with **React**, while building impactful and user-focused applications.
+
         </p>
       </motion.div>
 
